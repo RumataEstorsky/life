@@ -3,9 +3,9 @@
 
 
 ## Distributed Systems
-- [Spark: The Definitive Guide](https://www.bol.com/nl/p/spark-the-definitive-guide/9200000089487991/) price = 39.07
-- [Cassandra: The Definitive Guide: Distributed Data at Web Scale 2nd Edition](https://www.amazon.com/Cassandra-Definitive-Guide-Distributed-Scale/dp/1491933666) price = 31.87
-- [Kafka: The Definitive Guide](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing-ebook/dp/B0758ZYVVN) price = 28.5
+- [Spark: The Definitive Guide](https://www.bol.com/nl/p/spark-the-definitive-guide/9200000089487991/) price = 39
+- [Cassandra: The Definitive Guide: Distributed Data at Web Scale 2nd Edition](https://www.amazon.com/Cassandra-Definitive-Guide-Distributed-Scale/dp/1491933666) price = 31
+- [Kafka: The Definitive Guide](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing-ebook/dp/B0758ZYVVN) price = 28
 - [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) price = 40
 
 ## Akka
@@ -27,14 +27,13 @@
 
 
 ## Scala
-- [Scala with Cats]() price = 
-- [Learning Concurrent Programming in Scala - Second Edition 2nd Edition](https://www.amazon.com/Learning-Concurrent-Programming-Scala-Second-ebook/dp/B01LYF9HSJ)	price = 27.51
+- [Learning Concurrent Programming in Scala - Second Edition 2nd Edition](https://www.amazon.com/Learning-Concurrent-Programming-Scala-Second-ebook/dp/B01LYF9HSJ)	price = 28
 - [Functional Programming in Scala](https://www.amazon.co.uk/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/) price = 25
-- [Programming in Scala, 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) price = 27.52
+- [Programming in Scala, 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) price = 28
 - [sbt in Action: The simple Scala build tool](https://www.amazon.com/sbt-Action-simple-Scala-build/dp/1617291277/) price = 38
 
 ## Dev
-- [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) price = 51.99
+- [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) price = 52
 - [BDD in Action: Behavior-driven development](https://www.amazon.com/BDD-Action-Behavior-driven-development-lifecycle/dp/161729165X/) price = 42
 
 																									
